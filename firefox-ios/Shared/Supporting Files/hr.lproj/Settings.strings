@@ -170,7 +170,7 @@
 "Settings.Notifications.TurnOnNotificationsTitle.v112" = "Uključi obavijesti";
 
 /* Show Firefox Browser Privacy Notice page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
-"Settings.PrivacyNotice.Title.v137" = "Napomena o privatnosti";
+"Settings.PrivacyNotice.Title.v137" = "Napomene o privatnosti";
 
 /* In the settings menu, in the General section, this is the title for the option that allows user to disable the autohide feature of the tab and address bar. */
 "Settings.ScrollToHideTabAndAddressBar.Title.v138" = "Pomicanjem sakrij karticu i adresnu traku";

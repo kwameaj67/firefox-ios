@@ -614,7 +614,7 @@
 "TooltipBodyText.ContextMenu" = "Перейдите в «Настройки» для управления специфичными настройками приватности и безопасности.";
 
 /* This is the body text that is displayed for the Privacy tooltip */
-"TooltipBodyText.Privacy" = "Эти настройки по умолчанию обеспечивают надежную защиту. Но вы можете легко изменить их под ваши конкретные потребности.";
+"TooltipBodyText.Privacy" = "Эти настройки по умолчанию обеспечивают надёжную защиту. Но вы можете легко изменить их под ваши конкретные потребности.";
 
 /* This is the body text that is displayed for the Search Bar tooltip */
 "TooltipBodyText.SearchBar" = "Начните сеанс приватного просмотра, и мы будем блокировать трекеры и другие плохие штуки.";

@@ -176,10 +176,10 @@
 "Onboarding.Modern.TermsOfService.PrivacyNoticeAgreement.v145" = "%1$@ brine o tvojoj privatnosti. Saznaj više na stranici %2$@";
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
-"Onboarding.Modern.TermsOfService.PrivacyNoticeLink.v140" = "Napomena o privatnosti.";
+"Onboarding.Modern.TermsOfService.PrivacyNoticeLink.v140" = "Napomene o privatnosti.";
 
 /* The text for the Privacy Notice link button. */
-"Onboarding.Modern.TermsOfService.PrivacyNoticeLink.v145" = "Napomena o privatnosti.";
+"Onboarding.Modern.TermsOfService.PrivacyNoticeLink.v145" = "Napomene o privatnosti.";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.Modern.TermsOfService.PrivacyPreferences.LearnMore.v140" = "Saznaj više";
@@ -284,7 +284,7 @@
 "Onboarding.TermsOfService.PrivacyNoticeAgreement.v135" = "%1$@ brine o tvojoj privatnosti. Saznaj više na stranici %2$@";
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
-"Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "Napomena o privatnosti.";
+"Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "Napomene o privatnosti.";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v136" = "Saznaj više";
@@ -350,7 +350,7 @@
 "Onboarding.Welcome.Description.v120" = "Naš preglednik neprofitne organizacije pomaže spriječiti poduzeća da te potajno prate na webu.";
 
 /* String used to describe the title of link button is on the welcome onboarding page for current version in our Onboarding screens. */
-"Onboarding.Welcome.Link.Action.v114" = "Saznaj više u našoj napomeni o privatnosti";
+"Onboarding.Welcome.Link.Action.v114" = "Saznaj više u našim napomenama o privatnosti";
 
 /* Describes the action on the first onboarding page in our Onboarding screen. This string will be on a button so user can skip this onboarding card. */
 "Onboarding.Welcome.Skip.v114" = "Preskoči";

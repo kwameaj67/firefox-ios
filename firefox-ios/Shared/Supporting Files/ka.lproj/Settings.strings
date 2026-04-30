@@ -248,7 +248,7 @@
 "Settings.Summarize.GesturesSection.FooterTitle.v142" = "შეარხიეთ მოწყობილობა გვერდის შესაჯამებლად.";
 
 /* This is the title for the setting that toggles the Shake Gesture feature under the Summarize settings section. */
-"Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "შერხევა შეჯამებისთვის";
+"Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "შერხევით შეჯამება";
 
 /* This is the section title for the gestures features under the Summarize settings section. */
 "Settings.Summarize.GesturesSection.Title.v142" = "ჟესტები";

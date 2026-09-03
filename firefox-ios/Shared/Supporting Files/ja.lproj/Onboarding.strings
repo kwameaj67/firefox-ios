@@ -113,7 +113,7 @@
 "Onboarding.Modern.Customization.Toolbar.Title.v140" = "アドレスバーの配置場所を選択する";
 
 /* Title for the toolbar customization card. */
-"Onboarding.Modern.Customization.Toolbar.Title.v145" = "アドレスバーの選択";
+"Onboarding.Modern.Customization.Toolbar.Title.v145" = "アドレスバーの配置";
 
 /* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the top of the screen. */
 "Onboarding.Modern.Customization.Toolbar.Top.Action.v140" = "画面上部";

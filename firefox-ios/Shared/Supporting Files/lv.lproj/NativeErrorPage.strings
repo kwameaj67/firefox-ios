@@ -1,0 +1,6 @@
+/* On error page, this is the title for generic error. */
+"NativeErrorPage.GenericError.TitleLabel.v131" = "Uzmanīgi! Kaut kas neizskatās pareizi.";
+
+/* On error page, this is the title for no internet connection */
+"NativeErrorPage.NoInternetConnection.TitleLabel.v131" = "Izskatās, ka ir sarežģījums ar interneta savienojumu.";
+

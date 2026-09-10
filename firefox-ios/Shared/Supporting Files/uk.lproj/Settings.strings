@@ -248,7 +248,7 @@
 "Settings.Summarize.GesturesSection.FooterTitle.v142" = "Потрусіть пристрій з боку в бік, щоб підсумувати вміст сторінки.";
 
 /* This is the title for the setting that toggles the Shake Gesture feature under the Summarize settings section. */
-"Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "Струснути, щоб підсумувати";
+"Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "Потрусити, щоб підсумувати";
 
 /* This is the section title for the gestures features under the Summarize settings section. */
 "Settings.Summarize.GesturesSection.Title.v142" = "Жести";
@@ -263,7 +263,7 @@
 "Settings.TechnicalData.Link.v136" = "Докладніше";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %@ is the app name (e.g. Firefox). */
-"Settings.TechnicalData.Message.v136" = "Дані про ваш пристрій, конфігурацію обладнання та використання допомагають нам покращити функції, продуктивність і стабільність %@.";
+"Settings.TechnicalData.Message.v136" = "Дані про ваш пристрій, конфігурацію обладнання та використання допомагають нам покращити функції, швидкодію і стабільність %@.";
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "Надсилати технічні й аналітичні дані";

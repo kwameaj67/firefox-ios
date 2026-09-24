@@ -1,0 +1,15 @@
+/* On error page, this is the text on a button that will try to load the page again. */
+"NativeErrorPage.ButtonLabel.v131" = "फिर से लोड करें";
+
+/* On error page, this is the description for a generic error. %@ is the site url. */
+"NativeErrorPage.GenericError.Description.v134" = "%@ के मालिक ने इसे ठीक से सेट नहीं किया है और सुरक्षित कनेक्शन नहीं बनाया जा सकता।";
+
+/* On error page, this is the title for generic error. */
+"NativeErrorPage.GenericError.TitleLabel.v131" = "सावधान रहें। कुछ ठीक नहीं लग रहा है।";
+
+/* On error page, this is the description for no internet connection. */
+"NativeErrorPage.NoInternetConnection.Description.v131" = "किसी दूसरे डिवाइस से कनेक्ट करने की कोशिश करें। अपना मॉडेम या राउटर चेक करें। वाई-फ़ाई से डिस्कनेक्ट करके फिर से कनेक्ट करें।";
+
+/* On error page, this is the title for no internet connection */
+"NativeErrorPage.NoInternetConnection.TitleLabel.v131" = "लगता है आपके इंटरनेट कनेक्शन में कुछ गड़बड़ी है।";
+

@@ -89,7 +89,7 @@
 "Onboarding.Modern.Customization.Theme.Dark.v145" = "Tywyll";
 
 /* Description for the theme selection card. %@ is the app name (e.g. Firefox). */
-"Onboarding.Modern.Customization.Theme.Description.v145" = "Dewiswch eich hoff thema neu gofynnwch i %@ gydweddu â'ch dyfais, gan eich rhoi chi mewn rheolaeth.";
+"Onboarding.Modern.Customization.Theme.Description.v145" = "Dewiswch eich hoff thema neu gofynnwch i %@ gydweddu â'ch dyfais, fel mai chi sy'n rheoli.";
 
 /* Option for the light theme. */
 "Onboarding.Modern.Customization.Theme.Light.v145" = "Golau";

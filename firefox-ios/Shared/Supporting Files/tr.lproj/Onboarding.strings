@@ -44,7 +44,7 @@
 "Onboarding.Customization.Theme.Skip.Action.v123" = "Atla";
 
 /* On the theme customization onboarding card, the string used to describe the option to set the theme to system theme from the available choices. */
-"Onboarding.Customization.Theme.System.Action.v123" = "Otomatik sistem teması";
+"Onboarding.Customization.Theme.System.Action.v123" = "Sistem teması";
 
 /* String used to describe the title of the theme customization onboarding page in our Onboarding screens. */
 "Onboarding.Customization.Theme.Title.v123" = "Temanızı seçin";
@@ -77,7 +77,7 @@
 "Onboarding.IntroDescriptionPart2.v114" = "Kendimizi herkes için daha iyi bir internet inşa etmeye adadık.";
 
 /* Describes an action on some of the Onboarding screen, including the wallpaper onboarding screen. This string will be on a button so user can skip that onboarding page. */
-"Onboarding.LaterAction.v115" = "Geç";
+"Onboarding.LaterAction.v115" = "Atla";
 
 /* Option for the automatic theme. */
 "Onboarding.Modern.Customization.Theme.Automatic.v145" = "Otomatik";
@@ -251,7 +251,7 @@
 "Onboarding.Notification.Description.v120" = "Sekmelerinizi cihazlarınız arasında güvenli bir şekilde gönderin ve %@’un diğer gizlilik özelliklerini keşfedin.";
 
 /* String used to describe the option to skip the notification permission in Firefox Onboarding screens. */
-"Onboarding.Notification.Skip.Action.v115" = "Geç";
+"Onboarding.Notification.Skip.Action.v115" = "Atla";
 
 /* String used to describe the title of the notification onboarding page in our Onboarding screens. %@ is the app name (e.g. Firefox). */
 "Onboarding.Notification.Title.v120" = "Bildirimler %@ ile daha güvende kalmanızı sağlar";

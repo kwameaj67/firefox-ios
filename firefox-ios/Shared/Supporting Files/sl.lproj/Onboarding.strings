@@ -106,6 +106,9 @@
 /* Continue button on the toolbar customization card. */
 "Onboarding.Modern.Customization.Toolbar.Continue.Action.v145" = "Nadaljuj";
 
+/* Description for the toolbar customization card. */
+"Onboarding.Modern.Customization.Toolbar.Description.v145" = "Začnite tipkati in prikazali se bodo predlogi iskanja, priljubljena spletna mesta, zaznamki, zgodovina in iskalniki – vse na enem mestu.";
+
 /* String used to describe the title of the toolbar customization onboarding page in our Onboarding screens. */
 "Onboarding.Modern.Customization.Toolbar.Title.v140" = "Izberite, kje naj bo prikazana naslovna vrstica";
 
@@ -123,6 +126,9 @@
 
 /* String used to describe Firefox on the Sync onboarding page for the current version of our onboarding screens. */
 "Onboarding.Modern.Sync.Description.v140" = "Imejte zaznamke, zgodovino in gesla pri roki na vsaki napravi.";
+
+/* Description for the Sync card in the v2 onboarding flow. */
+"Onboarding.Modern.Sync.Description.v145" = "Vaši zaznamki, gesla in drugi podatki se sinhronizirajo s katerokoli drugo napravo. Vse je zaščiteno s šifriranjem, tako da imate dostop do njih samo vi.";
 
 /* String used to describes the option to skip the Sync sign in during onboarding for the current version in Firefox Onboarding screens. */
 "Onboarding.Modern.Sync.SignIn.Action.v140" = "Začnite sinhronizirati";
@@ -147,6 +153,9 @@
 
 /* Title for the confirmation button on the Terms of Service screen. */
 "Onboarding.Modern.TermsOfService.AgreementButtonTitle.v145" = "Nadaljuj";
+
+/* Description for the Terms of Service screen in the v2 onboarding flow. The '\n' symbols denote line breaks. %@ is the company name (e.g. Mozilla) */
+"Onboarding.Modern.TermsOfService.Description.v145" = "Samodejna zaščita vaših osebnih podatkov\nHitrejše nalaganje strani in pametnejše iskanje\nDelo neprofitne organizacije %@, ki ji zaupate že več kot 20 let";
 
 /* Title for the Manage button link, in the Terms of Service screen for redirecting the user to the Manage data collection preferences screen. */
 "Onboarding.Modern.TermsOfService.ManageLink.v140" = "Upravljaj";
